@@ -28,22 +28,22 @@ body {
 ### Importing
 
 ```css
-@import "~@bu0nq/webfont.inter/inter.css";
-@import "~@bu0nq/webfont.inter/inter-normal.css";
+@import "@bu0nq/webfont.inter/inter.css";
+@import "@bu0nq/webfont.inter/inter-normal.css";
 ```
 
 To import specific fonts, you can use:
 
 ```css
-@import "~@bu0nq/webfont.inter/css/inter-100-normal.css";
-@import "~@bu0nq/webfont.inter/css/inter-200-normal.css";
-@import "~@bu0nq/webfont.inter/css/inter-300-normal.css";
-@import "~@bu0nq/webfont.inter/css/inter-400-normal.css";
-@import "~@bu0nq/webfont.inter/css/inter-500-normal.css";
-@import "~@bu0nq/webfont.inter/css/inter-600-normal.css";
-@import "~@bu0nq/webfont.inter/css/inter-700-normal.css";
-@import "~@bu0nq/webfont.inter/css/inter-800-normal.css";
-@import "~@bu0nq/webfont.inter/css/inter-900-normal.css";
+@import "@bu0nq/webfont.inter/css/inter-100-normal.css";
+@import "@bu0nq/webfont.inter/css/inter-200-normal.css";
+@import "@bu0nq/webfont.inter/css/inter-300-normal.css";
+@import "@bu0nq/webfont.inter/css/inter-400-normal.css";
+@import "@bu0nq/webfont.inter/css/inter-500-normal.css";
+@import "@bu0nq/webfont.inter/css/inter-600-normal.css";
+@import "@bu0nq/webfont.inter/css/inter-700-normal.css";
+@import "@bu0nq/webfont.inter/css/inter-800-normal.css";
+@import "@bu0nq/webfont.inter/css/inter-900-normal.css";
 ```
 
 ## Usage (LESS)
@@ -59,22 +59,22 @@ body {
 ### Importing
 
 ```less
-@import "~@bu0nq/webfont.inter/inter";
-@import "~@bu0nq/webfont.inter/inter-normal";
+@import "@bu0nq/webfont.inter/inter";
+@import "@bu0nq/webfont.inter/inter-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```less
-@import "~@bu0nq/webfont.inter/less/inter-100-normal";
-@import "~@bu0nq/webfont.inter/less/inter-200-normal";
-@import "~@bu0nq/webfont.inter/less/inter-300-normal";
-@import "~@bu0nq/webfont.inter/less/inter-400-normal";
-@import "~@bu0nq/webfont.inter/less/inter-500-normal";
-@import "~@bu0nq/webfont.inter/less/inter-600-normal";
-@import "~@bu0nq/webfont.inter/less/inter-700-normal";
-@import "~@bu0nq/webfont.inter/less/inter-800-normal";
-@import "~@bu0nq/webfont.inter/less/inter-900-normal";
+@import "@bu0nq/webfont.inter/less/inter-100-normal";
+@import "@bu0nq/webfont.inter/less/inter-200-normal";
+@import "@bu0nq/webfont.inter/less/inter-300-normal";
+@import "@bu0nq/webfont.inter/less/inter-400-normal";
+@import "@bu0nq/webfont.inter/less/inter-500-normal";
+@import "@bu0nq/webfont.inter/less/inter-600-normal";
+@import "@bu0nq/webfont.inter/less/inter-700-normal";
+@import "@bu0nq/webfont.inter/less/inter-800-normal";
+@import "@bu0nq/webfont.inter/less/inter-900-normal";
 ```
 
 ## Usage (SCSS)
@@ -90,22 +90,22 @@ body {
 ### Importing
 
 ```scss
-@use "~@bu0nq/webfont.inter/inter";
-@use "~@bu0nq/webfont.inter/inter-normal";
+@use "@bu0nq/webfont.inter/inter";
+@use "@bu0nq/webfont.inter/inter-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```scss
-@use "~@bu0nq/webfont.inter/scss/inter-100-normal";
-@use "~@bu0nq/webfont.inter/scss/inter-200-normal";
-@use "~@bu0nq/webfont.inter/scss/inter-300-normal";
-@use "~@bu0nq/webfont.inter/scss/inter-400-normal";
-@use "~@bu0nq/webfont.inter/scss/inter-500-normal";
-@use "~@bu0nq/webfont.inter/scss/inter-600-normal";
-@use "~@bu0nq/webfont.inter/scss/inter-700-normal";
-@use "~@bu0nq/webfont.inter/scss/inter-800-normal";
-@use "~@bu0nq/webfont.inter/scss/inter-900-normal";
+@use "@bu0nq/webfont.inter/scss/inter-100-normal";
+@use "@bu0nq/webfont.inter/scss/inter-200-normal";
+@use "@bu0nq/webfont.inter/scss/inter-300-normal";
+@use "@bu0nq/webfont.inter/scss/inter-400-normal";
+@use "@bu0nq/webfont.inter/scss/inter-500-normal";
+@use "@bu0nq/webfont.inter/scss/inter-600-normal";
+@use "@bu0nq/webfont.inter/scss/inter-700-normal";
+@use "@bu0nq/webfont.inter/scss/inter-800-normal";
+@use "@bu0nq/webfont.inter/scss/inter-900-normal";
 ```
 
 ## Licensing
